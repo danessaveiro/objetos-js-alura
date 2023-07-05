@@ -7,7 +7,7 @@ const cliente = {
 
 cliente.enderecos = [
     {
-    rua: "Ribeirinhos",
+    rua: "Rua Ribeirinhos",
     numero: 34,
     apartamento: true,
     complemento: "apto 32",
