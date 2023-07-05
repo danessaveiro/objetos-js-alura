@@ -6,6 +6,6 @@ function encontrar(lista, chave, valor) {
 
 const encontrado = encontrar(clientes, "nome", "Kirby");
 
-const encontrado2 = encontrar(clientes, "telefone", '18977479960')
+const encontrado2 = encontrar(clientes, "telefone", "1918820860");
 
-console.log(encontrado2)
+console.log(encontrado2);
